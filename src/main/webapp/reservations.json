@@ -1,0 +1,1 @@
+[{"id":1,"userId":1,"hotelId":3,"roomNumber":21,"paymentMethod":"cash","checkInTime":"12:00","startDate":"2024-05-09","endDate":"2024-05-14"} ,{"id":2,"userId":1,"hotelId":3,"roomNumber":64,"paymentMethod":"card","checkInTime":"12:00","startDate":"2024-05-20","endDate":"2024-05-22"}]
